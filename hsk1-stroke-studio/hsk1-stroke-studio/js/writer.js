@@ -68,7 +68,6 @@
       strokeAnimationSpeed: 1,
       delayBetweenStrokes: 180,
       strokeFadeDuration: 300,
-      charDataLoader: undefined // default jsDelivr loader
     });
 
     var api = {
